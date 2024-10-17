@@ -1,5 +1,9 @@
 ## DFO Pacific Region Science Branch
 
+In support of reproducible scientific analyses. For scientists by scientists.
+
+### Hosted by the Data Stewardship Unit
+
 🙋‍♀️ Here to support scientists with data stewardship
 
 ### Various DFO GitHub accounts:
