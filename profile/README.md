@@ -2,4 +2,10 @@
 
 🙋‍♀️ Here to support scientists with data stewardship
 
-👩‍💻 Consolidating Various GitHub Org Accounts in the Pacific Region for you one stop shop
+### Various DFO GitHub accounts:
+
+[DFO National](https://github.com/dfo-mpo)
+
+[Pacific Biological Station Assessments](https://github.com/pbs-assess/)
+
+[Pacific Biological Station Salmon Assessments](https://github.com/Pacific-salmon-assess/)
