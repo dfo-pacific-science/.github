@@ -13,3 +13,5 @@ In support of reproducible scientific analyses. For scientists by scientists.
 [Pacific Biological Station Assessments](https://github.com/pbs-assess/)
 
 [Pacific Biological Station Salmon Assessments](https://github.com/Pacific-salmon-assess/)
+
+[State of Salmon Program](https://github.com/sos-program)
