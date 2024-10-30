@@ -17,3 +17,5 @@ In support of reproducible scientific analyses. For scientists by scientists.
 [State of Salmon Program](https://github.com/sos-program)
 
 [DFO NOAA Pacific](https://github.com/dfo-noaa-pacific)
+
+[Pacific Region South Coast Stock Assessment](https://github.com/SCA-stock-assess)
