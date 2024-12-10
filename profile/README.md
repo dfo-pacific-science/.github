@@ -22,6 +22,10 @@ If you are aware of one that's not listed here, please share it by creating an i
 
 [DFO Pacific Science](https://github.com/dfo-pacific-science)
 
+##### Institute of Ocean Sciences
+
+[IOS Ocean Science Division Data Product Team](https://github.com/ios-osd-dpg)
+
 ##### Stock Assessment
 
 [Pacific Biological Station Assessments](https://github.com/pbs-assess/)
