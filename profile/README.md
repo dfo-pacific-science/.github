@@ -2,6 +2,8 @@
 
 In support of reproducible scientific analyses. For scientists by scientists.
 
+Contact brett.johnson@dfo-mpo.gc.ca to request an invitation to this organization.
+
 ### Hosted by the Data Stewardship Unit
 
 🙋‍♀️ Here to support scientists with data stewardship
