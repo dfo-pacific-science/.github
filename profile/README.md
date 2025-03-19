@@ -24,6 +24,8 @@ If you are aware of one that's not listed here, please share it by creating an i
 
 [DFO Pacific Science](https://github.com/dfo-pacific-science)
 
+[Pacific Biological Station Software](https://github.com/pbs-software)
+
 ##### Institute of Ocean Sciences
 
 [IOS Ocean Science Division Data Product Team](https://github.com/ios-osd-dpg)
