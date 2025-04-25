@@ -10,11 +10,7 @@ Contact brett.johnson@dfo-mpo.gc.ca to request an invitation to this organizatio
 
 ### DFO GitHub accounts:
 
-Many DFO GitHub organizational accounts exist and it can be hard to find them! 
-
-We'll do our best to add organizational accounts here as we learn about them.
-
-If you are aware of one that's not listed here, please share it by creating an issue!
+Many DFO GitHub organizational accounts exist and it can be hard to find them! We'll do our best to add organizational accounts here as we learn about them. If you are aware of one that's not listed here, please share it by creating an issue!
 
 #### National
 
