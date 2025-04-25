@@ -4,7 +4,7 @@ In support of reproducible scientific analyses. For scientists by scientists.
 
 Contact brett.johnson@dfo-mpo.gc.ca to request an invitation to this organization.
 
-### Hosted by the Data Stewardship Unit
+Hosted by the Data Stewardship Unit in the Fisheries Assessment and Data Section of the Pacific Region Science Branch.
 
 🙋‍♀️ Here to support scientists with data stewardship
 
