@@ -11,7 +11,7 @@ Serving the Pacific Region Science Branch.
 ## How and When to Use this GitHub Account
 
 1) **Contact** brett.johnson@dfo-mpo.gc.ca to share your GitHub username so you can be invitated to this organization if you are DFO Pacific Science staff.
-2) **Create a Team**: Different programs, projects, units or groups should [https://github.com/orgs/dfo-pacific-science/teams](url) to manange access to their private repositories.
+2) **Create a Team**: Different programs, projects, units or groups should [create a team](https://github.com/orgs/dfo-pacific-science/teams) to manange access to their private repositories.
 3) **Host code** related to data processing and analysis or applications.
 
 🙋‍♀️ Here to support scientists with data stewardship
